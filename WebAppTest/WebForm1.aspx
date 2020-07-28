@@ -9,7 +9,7 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            Testing Web App Version 1.0
+            Testing Web App Version 2.0
         </div>
     </form>
 </body>
